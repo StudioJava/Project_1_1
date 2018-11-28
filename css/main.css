@@ -36,6 +36,16 @@ html, body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 }
-#car-image{
-	
+
+
+nav a {
+	font-size: 1.2em;
+	text-decoration: none !important;
+	color: white;
 }
+
+nav a:hover{
+	color: red;
+	border-bottom: solid 1px red;
+}
+
