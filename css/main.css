@@ -44,8 +44,10 @@ nav a {
 	color: white;
 }
 
-nav a:hover{
-	color: red;
-	border-bottom: solid 1px red;
+.bg-1{
+	background-color: #DBDB00;
+}
+.bg-1:hover{
+	background-color: cornsilk;
 }
 
